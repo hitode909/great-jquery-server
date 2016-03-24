@@ -1,3 +1,3 @@
 # The Great jQuer Sever
 
-Static Files Server which appends CORS header.
+Static files server which appends `Access-Control-Allow-Origin` header.
